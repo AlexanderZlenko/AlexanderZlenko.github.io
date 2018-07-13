@@ -376,9 +376,9 @@ body {
 
 .contact_info {
   margin-top: 100px;
-  height: 450px;
   font-size: 1.675em;
   margin-left: 70px;
+  padding: 40px 0px;
 }
 
 .phone_number, .e-mail {
