@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Futura_PT_Cond_Extra_Bold_Obl";
+    src: url("../fonts/Futura_PT_Cond_Extra_Bold_Obl.ttf");
+    src: url("../fonts/Futura_PT_Cond_Extra_Bold_Obl.woff2");
+    font-style: oblique;
+    font-weight: bold;
+}
