@@ -936,6 +936,9 @@ body {
   }
 
 @media (max-width: 375px) {
+    .my-experience h1 {
+        margin-bottom: 15px;
+    }
     .my-experience__coaching_barca {
       margin-top: 60px;
     }
