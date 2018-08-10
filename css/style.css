@@ -821,18 +821,18 @@ body {
 }
 
 @media (max-width: 480px) {
-   .my-experience h1 {
+  .my-experience h1 {
     padding-left: 10px;
     font-size: 1em;
    }
-   .my-experience__audit_text {
+  .my-experience__audit_text {
     padding-left: 10px;
     font-size: 0.8em;
     line-height: 1.4em;
     margin-right: -35px;
     margin-bottom: 30px;
    }
-   .my-experience__audit_logo .deloitte {
+  .my-experience__audit_logo .deloitte {
     width: 135px;
     height: 60px;
   }
@@ -938,6 +938,7 @@ body {
 @media (max-width: 375px) {
     .my-experience h1 {
         margin-bottom: 15px;
+        color: red;
     }
     .my-experience__coaching_barca {
       margin-top: 60px;
